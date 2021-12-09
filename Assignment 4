@@ -1,4 +1,3 @@
- 
 Name: Rahul Sharma 	 	 		 
             Bhargav Shah  	 	 	 	 	 
  
@@ -18,7 +17,7 @@ Step 1: Open Vmware and start virtual machine for starting linux.
 
 1.	Use command, dmesg 
 
- 
+ ![alt text](https://github.com/bhargavpshah98/CMPE-283/blob/16f9619066622c3cee64e58951cc3eebb2c4c87e/SS1.png)
 
 Step 2: To switch from nested paging to shadow paging, we can use following commands:-
 	
@@ -27,9 +26,7 @@ Step 2: To switch from nested paging to shadow paging, we can use following comm
 
 
 Now we can use dmesg (not using Shadow paging) :-
-
- 
-
+![alt text](https://github.com/bhargavpshah98/CMPE-283/blob/16f9619066622c3cee64e58951cc3eebb2c4c87e/SS2.png)
 
 3.  Number of Exits
 - In shadow paging, maximum exit occurred of type “CR_ACCESS " from our observation.
