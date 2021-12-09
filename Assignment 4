@@ -1,13 +1,13 @@
 Name: Rahul Sharma 	 	 		 
-            Bhargav Shah  	 	 	 	 	 
+      Bhargav Shah  	 	 	 	 	 
  
  
 1.	Implementation by Rahul Sharma:  
 •	Switched KVM to shadow paging (ept=0)
-•	Executed assignment 3 code and output taken for Shadow Paging (ept = 0).
+•	Executed the previous assignment and took for Shadow Paging (ept = 0).
  
 2.	Implementation by Bhargav Shah:  
-•	Executed assignment 3 code and output taken for Nested paging (ept = 1).
+•	Executed the previous code of assignment and took the output for Nested paging (ept = 1).
 	 
 Steps:-
  
